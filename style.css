@@ -1,0 +1,15 @@
+body{
+    background-image:linear-gradient(to right,yellow,green)
+}
+
+#TESTButton
+{
+    background-image:radial-gradient(blue,red)
+}
+
+#Heading
+{
+    background-image:radial-gradient(orange,purple);
+    font-family:"lucida console","times",monospace;
+    font-size:20px;
+}
